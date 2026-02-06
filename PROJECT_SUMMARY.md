@@ -15,8 +15,8 @@
 
 ## Technology Stack
 
-### Frontend (Next.js 14)
-- **Framework**: Next.js 14 with App Router
+### Frontend (Next.js 16)
+- **Framework**: Next.js 16 with App Router
 - **Language**: TypeScript
 - **Styling**: Tailwind CSS
 - **State**: Zustand
@@ -89,7 +89,7 @@
 
 ```
 kirotax-ai/
-├── frontend/                    # Next.js 14 Application
+├── frontend/                    # Next.js 16 application
 │   ├── src/
 │   │   ├── app/                # App Router pages
 │   │   │   ├── page.tsx       # Landing page

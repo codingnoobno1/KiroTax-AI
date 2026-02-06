@@ -6,7 +6,7 @@ Enterprise-grade AI-powered billing, GST automation, and tax filing platform for
 
 ## Architecture
 
-- **Frontend**: Next.js 14 (App Router, TypeScript, Tailwind CSS)
+- **Frontend**: Next.js 16 (App Router, TypeScript, Tailwind CSS)
 - **Backend**: Python FastAPI
 - **Database**: MongoDB
 - **Storage**: AWS S3-style abstraction
@@ -46,7 +46,7 @@ uvicorn main:app --reload
 
 ```
 kirotax-ai/
-├── frontend/          # Next.js 14 application
+├── frontend/          # Next.js 16 application
 ├── backend/           # FastAPI application
 └── README.md
 ```
